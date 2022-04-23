@@ -1,0 +1,38 @@
+{
+    "left": {
+        "msnbc": "https://www.msnbc.com",
+        "huffpost": "https://huffpost.com",
+        "buzzfeed": "https://buzzfeednews.com",
+        "vox": "https://vox.com",
+        "dailybeast": "https://dailybeast.com"
+    },
+    "midleft": {
+        "abc": "https://abc.com",
+        "atlantic": "https://atlantic.com",
+        "guardian": "https://guardian.com",
+        "nyt": "https://nyt.com",
+        "npr": "https://npr.com",
+        "washingtonpost": "https://washingtonpost.com"
+    },
+    "center": {
+        "bbc": "https://bbc.com",
+        "marketwatch": "https://marketwatch.com",
+        "newsweek": "https://newsweek.com",
+        "reuters": "https://reuters.com",
+        "realclearpolitics": "https://realclearpolitics.com",
+        "thehill": "https://thehill.com"
+    },
+    "midright": {
+        "nypost": "https://nypost.com",
+        "wsj": "https://wsj.com",
+        "washingtonexaminer": "https://washingtonexaminer.com",
+        "washingtontimes": "https://washingtontimes.com"
+    },
+    "right": {
+        "breitbart": "https://breitbart.com",
+        "blaze": "https://theblaze.com",
+        "foxnews": "https://foxnews.com",
+        "federalist": "https://federalist.com",
+        "dailywire": "https://www.dailywire.com"
+    }
+}
